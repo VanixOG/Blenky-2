@@ -1,0 +1,10 @@
+*.txt
+*.jar
+*.sh
+/.idea/
+/.gradle/
+/live/
+/test/
+/target/
+/src/main/resources/static/
+/src/main/resources/templates
